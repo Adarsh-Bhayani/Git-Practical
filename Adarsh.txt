@@ -1,3 +1,7 @@
 this is git practicals 
+<<<<<<< HEAD
 -edit file from new-branch
 -edit file from sub-branch
+=======
+-edit file from new-branch
+>>>>>>> 673122fbfcf8b7ca9300795063a096e6902c8198
