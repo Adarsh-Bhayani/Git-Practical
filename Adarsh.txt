@@ -1,2 +1,3 @@
 this is git practicals 
 -edit file from new-branch
+-edit file from sub-branch
